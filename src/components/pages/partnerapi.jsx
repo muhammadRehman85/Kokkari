@@ -1,0 +1,17 @@
+const partnerData=[
+    {
+ id:1,
+ name:"Paul Kirby",
+        post:"Managing Partner",
+        image:"images/Cover.jpg",
+        description:"“Running a restaurant is all about taking care of people,” says Paul Kirby who has been at the helm of Kokkari Estiatorio since 2000. “From your staff to each and every guest that comes into your establishment, it is important to make everyone feel comfortable and welcome. Restaurant employees that are valued and respected take pride in their work and truly enjoy their jobs. This translates directly to the guest experience While Paul may be soft-spoken and charming (qualities he attributes to his Southern upbringing), he is extremely driven. His dedicated, hands-on approach to management ensures the high standards of service and hospitality at the restaurant have stayed consistent for over 15 years. Under Kirby, Kokkari’s refreshing approach to service emphasizes the emotional elements of hospitality: Have a good time and above all, make sure the guests have a great tPaul came to the West Coast after years managing waterfront restaurant properties in The Hamptons outside of New York City. His first job in San Francisco was working alongside acclaimed, Bay Area Chef, Reed Hearon as General Manager of Rose Pistola. After three years with Hearon he came to Kokkari Estiatorio bringing with him a genuine appreciation and knowledge of rustic Meditteranean cuisine and wines, an essential prerequisite for working at Kokkari. In 2006 he was named Managing Partner of both Kokkari and Evvia in Palo Alto."
+    },
+    {
+    id:2,
+  name:"Erik Cosselmon",
+ post:"Chef/Partner",
+ image:"images/erik.jpg",
+ description:"Erik Cosselmon’s wide-ranging Mediterranean repertoire and strong, ingredient-driven style finds full expression in the Greek-inspired menus at Kokkari and sister restaurant Evvia in Palo Alto. Since being named Executive Chef of Kokkari in 2004, Cosselmon’s brand of casual tavern cuisine has attracted even more devotees, earning Kokkari top ratings in both local and National press publications. “The goal at Kokkari and Evvia is to offer as close to a true Greek restaurant experience as possible. Not only is it about good food, it’s about the people, the celebratory atmosphere and the Greek hospitality.”Erik grew up on a farm in Central Michigan helping his mom tend their extensive kitchen garden and his dad cook for the large parties the family would host. This introduction to farm-fresh ingredients and cooking cemented his desire to be a chef at an early age. After completing a degree at The Culinary Institute of America in Hyde Park, New York he moved to Manhattan and began his career working at notable restaurants such as Montrachet, Tribeca Grill, Le Bernardin and Daniel Cosselmn moved to San Francisco and in 1996 joined Reed Hearon in opening his landmark Liqurian restaurant, Rose Pistola, in North Beach. In 1998 he was named Executive Chef. In 2001, ready for a new challenge, Erik left to run the kitchen at Cetrella Bistro & Café in Half Moon Bay where he garnered immediate and consistent critical praise for his  named Executive Chef of sister restaurant Evvia located in Palo Alto where he oversees the menu. He also joined the founding Partners as a Partner."
+    }  
+  ];
+export default partnerData;

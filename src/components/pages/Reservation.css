@@ -1,0 +1,34 @@
+.out_wrapper{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:30px;
+}
+
+.reservataion_wrapper{
+    width:75%;
+    display:flex;
+    
+    
+}
+.reservation_info{
+    font-size:18px;
+    padding-left:50px;
+    padding-right:50px;
+    
+    margin-bottom:50px;
+    line-height: 40px;
+    font-weight: lighter;
+}
+span{
+    color:grey;
+    font-weight: bold;
+}
+.google_map{
+    width:100%;
+    height:90vh;
+}
+.address{
+    width:75%;
+}

@@ -1,0 +1,35 @@
+
+.FooterWraper{
+    width:100%;
+    /* border:2px solid red; */
+    display: flex;
+    flex-direction:column ;
+    /* justify-content: center;  */
+    /* align-items: center; */
+}
+span{
+color:rgb(143, 65, 51);
+    }
+    .contact{
+        margin-top:50px;
+      
+        
+      }
+      .contact li{
+        display: inline;
+        margin:50px;
+        font-size:20px;
+    }
+.introContent{
+    color:rgb(126, 100, 100);
+    line-height:35px;
+}
+.ones{background-color: #333;
+    width:100vh;}
+    .ft{
+        margin-left:35%;
+        margin-top:2%;
+    }
+    .gt{
+        margin-left:20%;
+    }
